@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasljedivanje_1", "Nasljedivanje_1\Nasljedivanje_1.csproj", "{9F171EC3-EFAD-40BC-9127-2F8C170CC151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F171EC3-EFAD-40BC-9127-2F8C170CC151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F171EC3-EFAD-40BC-9127-2F8C170CC151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F171EC3-EFAD-40BC-9127-2F8C170CC151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F171EC3-EFAD-40BC-9127-2F8C170CC151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3AF5B7D-DD09-42FE-9735-B3579FA2D423}
+	EndGlobalSection
+EndGlobal
